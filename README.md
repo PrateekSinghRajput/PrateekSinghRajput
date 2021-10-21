@@ -6,15 +6,15 @@
 
 🛠  Tech Stack
 
-💻   C C++ JavaScript Python
+💻   C C++,JavaScript,Python
 
-⚔️   React NextJs NodeJs ExpressJs 
+⚔️   React,NextJs,NodeJs,ExpressJs 
 
-🧰   HTML5 CSS 
+🧰   HTML5,CSS 
 
-🛢   MySQL Firebase
+🛢   MySQL,Firebase
 
-⚙️   Linux Git XAMPP Visual Studio Code Arduino Nodemcu
+⚙️   Linux,XAMPP,Visual Studio,Arduino,Nodemcu,Esp32,Raspberry Pi
 
 <!---
 PrateekSinghRajput/PrateekSinghRajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
