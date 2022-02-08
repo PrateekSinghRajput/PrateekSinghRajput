@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @PrateekSinghRajput
 - 👀 I’m interested in Electronics 
-- 🌱 I’m currently learning Mtech 
+- 💻 I’m currently Pursuing Mtech 
 - 💞️ I’m looking to collaborate on YouTube 
 - 📫 How to reach me just chek my YouTube channel JustDoElectronics
  
