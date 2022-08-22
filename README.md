@@ -12,7 +12,7 @@
 
 💻   C C++,JavaScript,Python
 
-⚔️   React,NextJs,NodeJs,ExpressJs 
+⚔️   NodeJs
 
 🧰   HTML5,CSS 
 
