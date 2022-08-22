@@ -10,7 +10,7 @@
 🛠  Tech Stack
 ------------------
 
-💻   C C++,JavaScript,Python
+💻   C,C++,Python
 
 ⚔️   NodeJs
 
