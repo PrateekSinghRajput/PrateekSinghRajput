@@ -10,7 +10,7 @@
 🛠  Tech Stack
 ------------------
 
-💻   C,C++,Python
+💻   C,C++,Python,Micro-Python
 
 🧰   HTML5,CSS 
 
