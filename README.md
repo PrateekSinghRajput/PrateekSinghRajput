@@ -12,8 +12,6 @@
 
 💻   C,C++,Python
 
-⚔️   NodeJs
-
 🧰   HTML5,CSS 
 
 🛢   MySQL,Firebase
