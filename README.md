@@ -12,9 +12,9 @@
 
 💻   C,Embedded C,C++,Micro-Python
 
-🛢   MySQL,Firebase
+🛢   MQTT Architecture,MySQL,Firebase
 
-⚙️  ARM Cortex m4,Esp32,Raspberry Pi,Beaglebone Black,Linux,XAMPP,Visual Studio
+⚙️  ARM Cortex M4,ESP32,Raspberry Pi,Beaglebone Black,Linux,XAMPP,Visual Studio
 
 <!---
 PrateekSinghRajput/PrateekSinghRajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
