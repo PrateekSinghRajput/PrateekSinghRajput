@@ -10,13 +10,11 @@
 🛠  Tech Stack
 ------------------
 
-💻   C,C++,Python,Micro-Python
-
-🧰   HTML5,CSS 
+💻   C,Embedded C,C++,Micro-Python
 
 🛢   MySQL,Firebase
 
-⚙️   Linux,XAMPP,Visual Studio,Arduino,Nodemcu,Esp32,Raspberry Pi
+⚙️  ARM Cortex m4,Esp32,Raspberry Pi,Beaglebone Black,Linux,XAMPP,Visual Studio
 
 <!---
 PrateekSinghRajput/PrateekSinghRajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
