@@ -7,7 +7,8 @@
 - 📫 How to reach me just chek my YouTube channel JustDoElectronics
  
 ------------------------------------
-🛠  STACK
+🛠  STACK UPDATE
+------------------------------------
 
 💻   Embedded C,C++,DSA,Micro-Python
 
