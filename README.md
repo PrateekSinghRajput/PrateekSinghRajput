@@ -6,17 +6,18 @@
 - 💞️ I’m looking to collaborate on YouTube 
 - 📫 How to reach me just chek my YouTube channel JustDoElectronics
  
-------------------
-🛠  Tech Stack
-------------------
+------------------------------------
+🛠  STACK
 
 💻   Embedded C,C++,DSA,Micro-Python
 
 🛢   MQTT Architecture,MySQL,Firebase
 
-⚙️  ARM Cortex M4,ESP32,Raspberry Pi,Beaglebone Black
+🏗️  ARM Cortex M4,ESP32,Raspberry Pi,Beaglebone Black
 
 ⚙️  Operating System - Linux,RTOS
+
+------------------------------------
 
 <!---
 PrateekSinghRajput/PrateekSinghRajput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
