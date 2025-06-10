@@ -10,7 +10,7 @@
 🛠  Tech Stack
 ------------------
 
-💻   Embedded C,C++,Micro-Python
+💻   Embedded C,C++,DSA,Micro-Python
 
 🛢   MQTT Architecture,MySQL,Firebase
 
