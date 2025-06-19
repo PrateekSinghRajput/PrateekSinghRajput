@@ -1,48 +1,33 @@
 # 👋 Hi, I’m @PrateekSinghRajput
 
 ## About Me
-- 👨🏻‍💻 Electronics enthusiast and passionate embedded systems developer  
-- 👀 Interested in Electronics and embedded technologies  
-- 🎓 Currently pursuing M.Tech  
-- 💞️ Looking to collaborate on YouTube projects related to Electronics and Embedded Systems  
-- 📫 Reach me via my YouTube channel: [JustDoElectronics](https://www.youtube.com/channel/UCYourChannelID)  
+- 👨🏻‍💻 Electronics enthusiast | M.Tech student  
+- 💞️ Collaborating on YouTube electronics projects  
+- 📫 Reach me on [JustDoElectronics YouTube]
 
 ---
 
 ## 🛠 Tech Stack
-
-### Programming Languages & Concepts
-- Embedded C, C++  
-- Data Structures & Algorithms (DSA)  
-- MicroPython  
-
-### Databases & Protocols
-- MQTT Architecture  
-- MySQL  
-- Firebase  
-
-### Hardware Platforms
-- ARM Cortex M4  
-- ESP32  
-- Raspberry Pi  
-- Beaglebone Black  
-
-### Operating Systems
-- Linux  
-- Real-Time Operating Systems (RTOS)  
+Embedded C, C++, MicroPython, MQTT, MySQL, Firebase, ARM Cortex M4, ESP32, Raspberry Pi, Linux, RTOS
 
 ---
 
-## 📺 YouTube Channel  
-Check out my tutorials, projects, and collaborations on my channel:  
-[JustDoElectronics](https://www.youtube.com/channel/UCYourChannelID)  
+## 📊 GitHub Stats
+
+![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrateekSinghRajput&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrateekSinghRajput&layout=compact&theme=radical)  
 
 ---
 
-Feel free to connect, collaborate, or reach out for any electronics or embedded systems projects!
+## 🏆 GitHub Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrateekSinghRajput&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-<!---
-PrateekSinghRajput/PrateekSinghRajput is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+## 📫 Connect with me  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYourChannelID)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+
+---
+
+![Visitor Count](https://profile-counter.glitch.me/PrateekSinghRajput/count.svg)
