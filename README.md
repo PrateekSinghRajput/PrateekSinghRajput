@@ -2,8 +2,6 @@
 
 ## About Me
 - 👨🏻‍💻 Electronics enthusiast | M.Tech student  
-- 💞️ Collaborating on YouTube electronics projects  
-- 📫 Reach me on [JustDoElectronics YouTube]
 
 ---
 
