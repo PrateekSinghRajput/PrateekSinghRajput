@@ -9,25 +9,27 @@
 
 ## 🛠 Tech Stack
 
-### Programming Languages & Concepts
-- Embedded C, C++  
-- Data Structures & Algorithms (DSA)  
-- MicroPython  
+### 💻 Programming Languages & Concepts
+- 🐧 Embedded C, C++  
+- 📚 Data Structures & Algorithms (DSA)  
+- 🐍 MicroPython  
 
-### Databases & Protocols
-- MQTT Architecture  
-- MySQL  
-- Firebase  
+### 🗄️ Databases & Protocols
+- 📡 MQTT Architecture  
+- 🐬 MySQL  
+- 🔥 Firebase  
 
-### Hardware Platforms
-- ARM Cortex M4  
-- ESP32  
-- Raspberry Pi  
-- Beaglebone Black  
+### 🏗️ Hardware Platforms
+- ⚙️ ARM Cortex M4  
+- 📶 ESP32  
+- 🍓 Raspberry Pi  
+- 🐝 Beaglebone Black  
 
-### Operating Systems
-- Linux  
-- Real-Time Operating Systems (RTOS)  
+### 🖥️ Operating Systems
+- 🐧 Linux  
+- ⏱️ Real-Time Operating Systems (RTOS)  
+
+---
 
 ## 📊 GitHub Stats
 
