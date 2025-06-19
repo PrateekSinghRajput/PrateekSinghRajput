@@ -1,8 +1,9 @@
 # 👋 Hi, I’m @PrateekSinghRajput
 
 ## About Me
-- 👨🏻‍💻 Electronics enthusiast | M.Tech student  
-
+- 👨🏻‍💻 Electronics enthusiast and M.Tech student passionate about embedded systems and IoT.  
+- 💡 Experienced with ARM Cortex M4, ESP32, and Raspberry Pi platforms.  
+- 🤝 Open to collaboration and knowledge sharing in electronics and embedded projects.
 ---
 
 ## 🛠 Tech Stack
