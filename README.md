@@ -18,7 +18,12 @@
 - 📡 MQTT Architecture  
 - 🐬 MySQL  
 - 🔥 Firebase  
-
+- 🔄 I2C (Inter-Integrated Circuit)  
+- 🔀 SPI (Serial Peripheral Interface)  
+- 📡 UART (Universal Asynchronous Receiver/Transmitter)  
+- 🚗 CAN (Controller Area Network)  
+- 🌐 Ethernet  
+ 
 ### 🏗️ Hardware Platforms
 - ⚙️ ARM Cortex M4  
 - 📶 ESP32  
