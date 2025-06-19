@@ -8,9 +8,26 @@
 ---
 
 ## 🛠 Tech Stack
-Embedded C, C++, MicroPython, MQTT, MySQL, Firebase, ARM Cortex M4, ESP32, Raspberry Pi, Linux, RTOS
 
----
+### Programming Languages & Concepts
+- Embedded C, C++  
+- Data Structures & Algorithms (DSA)  
+- MicroPython  
+
+### Databases & Protocols
+- MQTT Architecture  
+- MySQL  
+- Firebase  
+
+### Hardware Platforms
+- ARM Cortex M4  
+- ESP32  
+- Raspberry Pi  
+- Beaglebone Black  
+
+### Operating Systems
+- Linux  
+- Real-Time Operating Systems (RTOS)  
 
 ## 📊 GitHub Stats
 
@@ -21,12 +38,6 @@ Embedded C, C++, MicroPython, MQTT, MySQL, Firebase, ARM Cortex M4, ESP32, Raspb
 
 ## 🏆 GitHub Trophies  
 [![trophy](https://github-profile-trophy.vercel.app/?username=PrateekSinghRajput&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📫 Connect with me  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCYourChannelID)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
 
 ---
 
